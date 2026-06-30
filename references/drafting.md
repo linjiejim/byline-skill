@@ -10,6 +10,9 @@ Write the full draft yourself (that's the "ghost" in ghostwriter), but it must s
 - **Use the author's own words from the interview wherever they're vivid.** A good answer often contains the best sentence in the article verbatim, so keep it.
 - **Structure is yours to impose:** a sharp thesis, three or four supporting moves, a close. The author gave you raw material and opinions; turning it into a shaped argument is your job.
 - **Open with a concrete scene, number, or sharp question.** Earn the next paragraph. Avoid generic throat-clearing.
+- **Assert through the argument, not through self-certification.** Two failure modes make a draft sound smug or preachy even when the ideas are good, and few-shot won't reliably catch them:
+  - *Self-certified conviction/satisfaction*: "I'm now convinced", "I figured this out", "I'm very happy with this", "the call I bet hardest on". Let the claim stand on the reasoning; cut the meta-commentary about how sure or pleased the author is. The fix is rarely "fewer I/我" mechanically, it's dropping the *certifying* first person while keeping the *experiential* one ("the deepest trap I hit was…", "I tried…"), which is what earns trust.
+  - *Revelation register and reader-directed imperatives*: a drumbeat of "it was never X, it's Y" / "essentially" / "the truth is", or closing a section by commanding the reader ("just hand it all off", "remember that…"). Use the reveal sparingly, and close the way the author's real pieces close — a hedge or a turn inward, not an order. Calibrate the exact dose from the author's published exemplars, not from this rule.
 
 ## Provenance: keep the byline honest
 
