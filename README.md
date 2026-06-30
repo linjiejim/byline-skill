@@ -6,6 +6,8 @@
 
 It works with [Claude Code](https://claude.com/claude-code) or any agent that loads skills. It inverts the usual AI-writing flow: not *AI drafts, you edit*, but **AI asks, you answer, AI drafts.** The hard part of writing isn't word-choice, it's thinking clearly; structured questions do that work.
 
+![byline-skill flow: your profile feeds an eight-phase loop (load, research, interview, draft, cite, review, publish, write back); a red line keeps every opinion traceable to an answer you confirmed; each finished piece is written back so the work compounds](assets/flow.svg)
+
 ## The one rule that matters
 
 > **Conversation is not confirmation.** Even when you've already talked the idea through, byline-skill still interviews you. Chat is informed input, but no claim ships until you confirm it through Q&A. This is the guard that keeps the byline honest, and it's the whole point.

@@ -6,6 +6,8 @@
 
 它能在 [Claude Code](https://claude.com/claude-code) 或任何能加载 skill 的 agent 里运行。它把常见的 AI 写作流程反了过来：不是 *AI 先写、你来改*，而是 **AI 提问、你回答、AI 代笔**。写作最难的从来不是遣词造句，而是想清楚；有结构的提问替你完成这部分工作。
 
+![byline-skill 流程：你的 profile 喂给一个八阶段的循环（load、research、interview、draft、cite、review、publish、write back）；一条红线贯穿其中，保证每个观点都能追溯到你确认过的回答；每篇成稿都会写回，让作品复利累积](assets/flow.svg)
+
 ## 唯一一条铁律
 
 > **对话不等于确认。** 哪怕你在这次会话里已经把想法聊透了，byline-skill 仍然会采访你。聊天是有价值的输入，但任何判断在你通过问答确认之前都不会进文章。这是守住"署名诚实"的那道闸，也是整件事的意义所在。
