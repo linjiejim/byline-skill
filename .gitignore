@@ -1,0 +1,10 @@
+# Your private author data — never commit. Copy from examples/ to set up.
+/profile/*
+!/profile/.gitkeep
+
+# Generated drafts — self-contained, not part of the skill.
+/drafts/*
+!/drafts/.gitkeep
+
+# OS / editor noise
+.DS_Store
